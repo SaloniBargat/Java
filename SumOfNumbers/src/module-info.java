@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sbargat
+ *
+ */
+module SumOfNumbers {
+}
